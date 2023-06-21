@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  h1 {
+    color: #333;
+  }
+
+  .section {
+    margin-bottom: 20px;
+  }
+
+  .job {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+  }
+  
+  .role {
+    margin-bottom: 0;
+  }
+
+  .company {
+    margin-top: 0;
+  }
+
+  .company-discription {
+    margin-bottom: 0;
+  }
